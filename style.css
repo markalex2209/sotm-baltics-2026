@@ -1,0 +1,50 @@
+body {
+  background: #f7f1ea;
+  color: #403833;
+  font-family: "PT Serif", serif;
+  font-size: 110%;
+  font-weight: 200;
+  line-height: 1.3;
+  max-width: 700px;
+  margin: 0 auto 3em;
+}
+
+@media only screen and (max-device-width: 680px) {
+  body {
+    max-width: 100%;
+    font-size: 120%;
+  }
+}
+
+#logo {
+    margin: 3em 0.5em 2em;
+}
+
+p, h1, h2, #app {
+  margin: 1em 10px 0;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  color: #4c4cb7;
+}
+
+li p {
+  margin: 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.button {
+    text-align: center;
+    font-size: 150%;
+}
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+}
