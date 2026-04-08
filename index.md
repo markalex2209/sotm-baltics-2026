@@ -31,5 +31,5 @@ and add some bookmarks to your mobile map. We've got a page just for that:
 [Travel, accomodation, the venue](riga.html)
 {: .button}
 
-Subscribe to our [mastodon](https://en.osm.town/@sotmbaltics) account for updates.
+Subscribe to our [mastodon](https://en.osm.town/@sotmbaltics){:rel="me"} account for updates.
 Questions? Send them to [org@sotm-baltics.org](mailto:org@sotm-baltics.org).
